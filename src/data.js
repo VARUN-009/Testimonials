@@ -29,7 +29,7 @@ const reviews = [
   },
   {
     id: 5,
-    name: "Harry the Horse",
+    name: "Harry The Horse",
     job: "Data Analyst",
     image: "https://t3.ftcdn.net/jpg/08/63/10/84/240_F_863108407_UN0hfiG0pTDHNjgBjRq2aXv9On3eE4Y7.jpg",
     text: "Giddy up! I’m Harry the Horse, and I’m here to trot you through my journey as a data analyst. With my keen sense of observation and thorough attention to detail, I can gallop through data sets and uncover insights with precision. Just like a well-tuned racehorse, I make sure that every data point is analyzed efficiently and effectively.",
